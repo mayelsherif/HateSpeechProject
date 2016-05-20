@@ -1,0 +1,51 @@
+Hi guys,
+So if you go to this webpage (http://www.nohatespeechmovement.org/hate-speech-watch/report) and filter by English, you will find around 
+212 reports. Each of us will take around 71 reports. For each report, we want to manually check the topic discussed and if there are 
+related hashtags and keywords of hate speech and update this text file.
+
+Reports Assignement: 
+
+Theodore: 1-71
+Mai: 72- 143
+Shirin: 144 - 212
+
+Topics and Hashtags
+**********************************************************************************************
+Theo:
+
+
+
+Mai:
+
+
+
+Shirin: 
+
+
+
+
+
+
+
+Keywords:
+***************************************************************************************************
+Theo:
+
+
+
+Mai:
+
+
+
+Shirin: 
+
+
+
+
+
+
+
+
+
+
+
