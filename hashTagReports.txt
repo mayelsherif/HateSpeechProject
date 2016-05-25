@@ -1,4 +1,8 @@
 Hi guys,
+ == New: I am trying to find an automated way to do this task using webscraping instead of doing it manually. I will update you when I get interesting results.
+
+
+
 So if you go to this webpage (http://www.nohatespeechmovement.org/hate-speech-watch/report) and filter by English, you will find around 
 212 reports. Each of us will take around 71 reports. For each report, we want to manually check the topic discussed and if there are 
 related hashtags and keywords of hate speech and update this text file.
